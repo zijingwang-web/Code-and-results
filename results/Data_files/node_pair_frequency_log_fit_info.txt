@@ -1,0 +1,7 @@
+Node Pair Frequency Log Fit Info
+=================================
+Slope: -0.013374
+Intercept: 4.329268
+R-squared: 0.985686
+P-value: 3.457057e-55
+Standard Error: 0.000212
