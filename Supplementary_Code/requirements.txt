@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+networkx
+scikit-learn
+python-louvain
+colormath
+Pillow
+tqdm
+scipy
