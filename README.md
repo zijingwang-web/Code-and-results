@@ -33,6 +33,3 @@ The `results` folder contains the data files corresponding to the figures presen
 
 A detailed README file is also included in the `results` folder to explain the relationship between each figure in the manuscript and its corresponding data file.
 
-## Notes
-
-The code and result files are provided to facilitate transparency and reproducibility. Users may refer to the README files inside each folder for more detailed explanations of the individual scripts, data files, and figure-generation outputs.
